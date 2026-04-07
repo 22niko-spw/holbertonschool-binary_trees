@@ -22,4 +22,3 @@ typedef struct binary_tree_s
 void binary_tree_print(const binary_tree_t *);
 
 #endif /* _BINARY_TREES_H_ */
->>>>>>> 13abc1048a9fccb380286210c755c1de7a3ebe6d
